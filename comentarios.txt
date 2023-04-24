@@ -1,0 +1,10 @@
+Ports and Adapters ou Arquitetura Hexagonal
+Ports = interface ou seja comunicação com o mundo exterior ColecaoUsuario, ProvedorCripto, Usuario
+Mais um padrão de designer, do que um padrão de arquitetura
+
+Principios do SOLID:
+S - Single Responsibility Principle (Princípio de responsabilidade única)
+O - Open-Closed Principle (Princípio Abert-Fechado)
+L - Lisvok Substitution Principle (Princípio da substituição de Lisvok)
+I - Interface Segregation Principle (Princípio da Segregação da Interface)
+D - Dependency Inversion Principle (Princípio da inversão da dependência)
